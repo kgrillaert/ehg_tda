@@ -19,3 +19,11 @@ I'll be sharing my resources and notebooks used to learn TDA. I'm specifically i
 - Term-Preterm EHG DataSet with Tocogram - https://physionet.org/content/tpehgt/1.0.0/  
 - Jager F, Libenšek S, Geršak K (2018) Characterization and automatic classification of preterm and term uterine records. PLoS ONE 13(8): e0202125. https://doi.org/10.1371/journal.pone.0202125.  
 - Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., Mietus, J.E., Moody, G.B., Peng, C.K., & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.  
+
+## Set up a Virtual Environment in Python
+https://www.geeksforgeeks.org/create-virtual-environment-using-venv-python/
+
+## Get a Virtual Machine
+I needed power, much more power, so I turned to Google Cloud and their free trial. 
+- Set up the Virtual Machine: Running Jupyter Notebook on Google Cloud Platform in 15 min, Amulya Aankul, https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
+- Set up Anaconda and Transfer Files: How to set up Anaconda under Google Cloud VM and transfer files on Windows, Raymond Chu, https://medium.com/google-cloud/set-up-anaconda-under-google-cloud-vm-on-windows-f71fc1064bd7  
