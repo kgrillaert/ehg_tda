@@ -6,6 +6,9 @@ I'll be sharing my resources and notebooks used to learn TDA. I'm specifically i
 - Persistent Homology - https://youtu.be/5ezFcy9CIWE 
 - Mapper - https://youtu.be/NlMrvCYlOOQ
 
+## Introductory Article by Gary Koplik
+- Persistent Homology: A Non-Mathy Introduction with Examples - https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0
+
 ## Lectures by Bastian Grossenbacher-Rieck
 - Topological Data Analysis for Machine Learning I: Algebraic Topology - https://www.youtube.com/watch?v=gVq_xXnwV-4  
 - Topological Data Analysis for Machine Learning Lecture II: Computational Topology - https://www.youtube.com/watch?v=UKXIyC7l16g  
