@@ -1,0 +1,1 @@
+In this folder, we present some EDA using TDA. We look at a way to apply persistent homology using ripser on 25 percent of each channel data. We also look into applying the mapper algorithm on different patients to get some insights.
